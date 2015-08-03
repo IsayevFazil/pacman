@@ -1,0 +1,13 @@
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\UnityEditor.dll
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\UnityEngine.dll
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\avarec\Desktop\Pac\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\avarec\Desktop\Pac\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\avarec\Desktop\Pac\obj\Debug\Assembly-CSharp.dll
+C:\Users\avarec\Desktop\Pac\obj\Debug\Assembly-CSharp.pdb
